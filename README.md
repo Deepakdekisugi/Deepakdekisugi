@@ -18,6 +18,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Deepakdekisugi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-##Will Code for Butter paneer and Naan
+##Will Code for Anything 
 ---
 [![](https://visitcount.itsvg.in/api?id=Deepakdekisugi&icon=0&color=0)](https://visitcount.itsvg.in)
