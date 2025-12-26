@@ -1,23 +1,108 @@
+<div align="center">
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/4nNfsHQG) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/deepak.kr.3781) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/deepak_dekisugi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepak-kumar4) 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=320&section=header&text=DEEPAK%20KUMAR&fontSize=80&animation=fadeIn&fontAlignY=35&desc=FULL%20STACK%20ENGINEER%20|%20CLOUD%20ARCHITECT%20|%20CREATIVE%20DESIGNER&descAlignY=55&descSize=20" />
 
-# 💻 Tech Stack: 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Deepakdekisugi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Deepakdekisugi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepakdekisugi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Deepakdekisugi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00D1FF&center=true&vCenter=true&width=800&lines=System+Design+%26+Backend+Optimization;AWS+Infrastructure+as+Code;High-Performance+React+Architecture;Motion+Graphics+%26+Digital+Production;Engineering+Solutions+at+Scale" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://img.shields.io/badge/Main%20Status-Active%20Developing-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20For-Collaboration-blue?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Deepakdekisugi&style=for-the-badge&color=blueviolet&label=PROFILE%20VIEWS" />
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Deepakdekisugi&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-##Will Code for Anything 
 ---
-[![](https://visitcount.itsvg.in/api?id=Deepakdekisugi&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 📊 SYSTEM TELEMETRY (REAL-TIME DATA)
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img width="420" src="https://github-readme-stats.vercel.app/api?username=Deepakdekisugi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" />
+    </td>
+    <td align="center">
+      <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepakdekisugi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+    </td>
+  </tr>
+</table>
+
+<img width="98%" src="https://github-readme-streak-stats.herokuapp.com?user=Deepakdekisugi&theme=tokyonight&hide_border=true&stroke=00D1FF" />
+
+---
+
+## 📈 CONTRIBUTION FLUX ANALYSIS
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Deepakdekisugi&theme=tokyo-night&area=true&hide_border=true" />
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Deepakdekisugi/Deepakdekisugi/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
+
+---
+
+## 🛠️ THE ENGINEERING ARSENAL
+
+| Category | Infrastructure & Tools |
+| :--- | :--- |
+| **Development** | <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,threejs,nodejs,py,c,cpp&theme=dark" /> |
+| **Backend & Data** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,apache,linux&theme=dark" /> |
+| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,vscode&theme=dark" /> |
+| **Creative Suite** | <img src="https://skillicons.dev/icons?i=ps,pr,lr,figma,ae&theme=dark" /> |
+
+---
+
+## 💻 WORK ENVIRONMENT SPECS
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-Windows/Linux-0078D4?style=flat-square&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Main_IDE-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terminal-ZSH/PowerShell-4E94CE?style=flat-square&logo=gnumetashand&logoColor=white" />
+  <img src="https://img.shields.io/badge/Browser-Chrome/Brave-F44336?style=flat-square&logo=google-chrome&logoColor=white" />
+</p>
+
+---
+
+## 🏆 MILITARY GRADE ACHIEVEMENTS
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Deepakdekisugi&theme=tokyonight&no-frame=false&margin-w=15&column=4" alt="Trophies" />
+</p>
+
+---
+
+## 🛰️ STRATEGIC REPOSITORY METRICS
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Deepakdekisugi&repo=Deepakdekisugi&theme=tokyonight&show_owner=true" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Deepakdekisugi&repo=Deepakdekisugi&theme=tokyonight&show_owner=true" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Deepakdekisugi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+## 📡 NEURAL UPLINK
+
+<p align="center">
+<a href="https://linkedin.com/in/deepak-kumar4"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://discord.gg/4nNfsHQG"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://instagram.com/deepak_dekisugi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://facebook.com/deepak.kr.3781"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=2000&color=00D1FF&center=true&vCenter=true&width=700&lines=%22Code+is+like+humor.+If+you+have+to+explain+it%2C+it's+bad.%22;%22Talk+is+cheap.+Show+me+the+code.%22;%22Simplicity+is+the+ultimate+sophistication.%22" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer" />
+
+</div>
