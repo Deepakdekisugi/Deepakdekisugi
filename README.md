@@ -162,6 +162,6 @@ const deepak = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=9F1239,B45309,166534,1D4ED8,581C87&section=footer" />
 
-**⭐ From [Deepakdekisugi](https://github.com/Deepakdekisugi) with ❤️**
+**⭐ From [Deepakdekisugi](https://github.com/Deepakdekisugi)**
 
 </div>
